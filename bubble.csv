@@ -1,9 +1,41 @@
-State,Employed people,Employment to population ratio,Unemployment rate,Underemployment rate,Participation rate
-New South Wales,4478500,63.7,4,6.1,66.3
-Victoria,3770500,65,4.5,6.6,68.1
-Queensland,2951000,64.3,4.2,6.7,67.1
-South Australia,941200,60,4.2,7.3,62.6
-Western Australia,1616400,66.3,3.7,5.6,68.9
-Tasmania,282000,58.3,4.1,6.8,60.8
-Northern Territory,140100,70,4.3,4.4,73.1
-Australian Capital Territory,271300,70.1,3.6,5.3,72.7
+State,Employed people,Employment to population ratio,Unemployment rate,Underemployment rate,Participation rate,Year
+New South Wales,4478500,63.7,4,6.1,66.3,2024
+Victoria,3770500,65,4.5,6.6,68.1,2024
+Queensland,2951000,64.3,4.2,6.7,67.1,2024
+South Australia,941200,60,4.2,7.3,62.6,2024
+Western Australia,1616400,66.3,3.7,5.6,68.9,2024
+Tasmania,282000,58.3,4.1,6.8,60.8,2024
+Northern Territory,140100,70,4.3,4.4,73.1,2024
+Australian Capital Territory,271300,70.1,3.6,5.3,72.7,2024
+New South Wales,4373600,64,3.3,6.3,66.2,2023
+Victoria,3658900,65.2,3.6,6.4,67.6,2023
+Queensland,2849700,63.7,4.1,6.8,66.5,2023
+South Australia,955300,62,3.9,7.7,64.4,2023
+Western Australia,1561100,66.5,3.6,6,69.1,2023
+Tasmania,289100,60,4.4,6.9,62.8,2023
+Northern Territory,138100,70.2,3.7,4,72.9,2023
+Australian Capital Territory,265900,70.5,3.2,4.4,72.9,2023
+New South Wales,4278800,63.7,3.4,5.6,66,2022
+Victoria,3525200,64.5,3.7,5.8,67,2022
+Queensland,2775400,64.4,3.2,6.4,66.5,2022
+South Australia,893500,60.7,3.9,6.5,63.1,2022
+Western Australia,1471500,67.2,3.1,5.9,69.3,2022
+Tasmania,264100,58.3,4.9,7.3,61.3,2022
+Northern Territory,135300,70.3,4.5,5.4,73.6,2022
+Australian Capital Territory,236800,68.9,2.7,4.4,70.9,2022
+New South Wales,3956300,59.4,4.9,10.2,62.4,2021
+Victoria,3489300,64.1,4.1,9.1,66.9,2021
+Queensland,2626700,62.3,5.3,8.4,65.9,2021
+South Australia,874100,59.8,5,8,62.9,2021
+Western Australia,1423600,65.9,4.6,6.9,69,2021
+Tasmania,262200,58.3,5.5,8.4,61.7,2021
+Northern Territory,130500,68.3,3.4,6.7,70.7,2021
+Australian Capital Territory,233300,67.6,3.5,7.1,70.1,2021
+New South Wales,4042400,60.9,6.7,9.8,65.2,2020
+Victoria,3255100,59.4,7.1,13.8,63.9,2020
+Queensland,2447900,58.8,7.5,9.3,63.6,2020
+South Australia,841200,57.9,7.9,11.4,62.8,2020
+Western Australia,1350300,63.1,7,9.6,67.9,2020
+Tasmania,255300,57.2,6.3,12,61.1,2020
+Northern Territory,132500,70.3,4.2,8.4,73.4,2020
+Australian Capital Territory,240100,70.1,4.2,5.2,73.1,2020
