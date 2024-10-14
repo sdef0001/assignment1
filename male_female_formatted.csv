@@ -1044,7 +1044,7 @@ Spain,2015,Male,Employment to population ratio,51.209
 Spain,2015,Female,Labour Force Participation Rate,52.593
 Spain,2015,Male,Labour Force Participation Rate,64.639
 Spain,2015,Female,Part Time Employment,40.84
-Spain,2015,Male,Part Time Employment,21.0
+Spain,2015,Male,Part Time Employment,21
 Spain,2015,Female,Vulnerable Employment,9.514558948
 Spain,2015,Male,Vulnerable Employment,14.62647029
 Sri Lanka,2015,Female,Employment to population ratio,32.743
@@ -1563,7 +1563,7 @@ Czechia,2016,Female,Employment to population ratio,49.439
 Czechia,2016,Male,Employment to population ratio,66.07
 Czechia,2016,Female,Labour Force Participation Rate,51.86
 Czechia,2016,Male,Labour Force Participation Rate,68.38
-Czechia,2016,Female,Part Time Employment,32.0
+Czechia,2016,Female,Part Time Employment,32
 Czechia,2016,Male,Part Time Employment,20.72
 Czechia,2016,Female,Vulnerable Employment,11.60472149
 Czechia,2016,Male,Vulnerable Employment,15.91705268
@@ -1732,7 +1732,7 @@ Guinea,2016,Male,Vulnerable Employment,77.63625369
 Guinea-Bissau,2016,Female,Employment to population ratio,47.444
 Guinea-Bissau,2016,Male,Employment to population ratio,61.697
 Guinea-Bissau,2016,Female,Labour Force Participation Rate,48.766
-Guinea-Bissau,2016,Male,Labour Force Participation Rate,64.0
+Guinea-Bissau,2016,Male,Labour Force Participation Rate,64
 Guinea-Bissau,2016,Female,Vulnerable Employment,79.53373077
 Guinea-Bissau,2016,Male,Vulnerable Employment,60.98659278
 Guyana,2016,Female,Employment to population ratio,34.737
@@ -2740,7 +2740,7 @@ Central African Republic,2017,Male,Vulnerable Employment,88.78269069
 Chad,2017,Female,Employment to population ratio,48.785
 Chad,2017,Male,Employment to population ratio,71.015
 Chad,2017,Female,Labour Force Participation Rate,49.148
-Chad,2017,Male,Labour Force Participation Rate,72.0
+Chad,2017,Male,Labour Force Participation Rate,72
 Chad,2017,Female,Vulnerable Employment,96.39893387
 Chad,2017,Male,Vulnerable Employment,85.82907057
 Channel Islands,2017,Female,Employment to population ratio,47.966
@@ -3767,7 +3767,7 @@ Viet Nam,2017,Female,Vulnerable Employment,60.89982409
 Viet Nam,2017,Male,Vulnerable Employment,49.34318801
 Virgin Islands (U.S.),2017,Female,Employment to population ratio,42.605
 Virgin Islands (U.S.),2017,Male,Employment to population ratio,62.896
-Virgin Islands (U.S.),2017,Female,Labour Force Participation Rate,49.0
+Virgin Islands (U.S.),2017,Female,Labour Force Participation Rate,49
 Virgin Islands (U.S.),2017,Male,Labour Force Participation Rate,70.807
 Virgin Islands (U.S.),2017,Female,Vulnerable Employment,4.854731895
 Virgin Islands (U.S.),2017,Male,Vulnerable Employment,8.241323278
@@ -4638,7 +4638,7 @@ North Macedonia,2018,Male,Employment to population ratio,52.857
 North Macedonia,2018,Female,Labour Force Participation Rate,42.429
 North Macedonia,2018,Male,Labour Force Participation Rate,67.428
 North Macedonia,2018,Female,Part Time Employment,14.28
-North Macedonia,2018,Male,Part Time Employment,10.0
+North Macedonia,2018,Male,Part Time Employment,10
 North Macedonia,2018,Female,Vulnerable Employment,14.80478252
 North Macedonia,2018,Male,Vulnerable Employment,20.62526087
 Norway,2018,Female,Employment to population ratio,58.347
@@ -4828,7 +4828,7 @@ South Africa,2018,Male,Employment to population ratio,50.388
 South Africa,2018,Female,Labour Force Participation Rate,51.677
 South Africa,2018,Male,Labour Force Participation Rate,65.242
 South Africa,2018,Female,Part Time Employment,18.92
-South Africa,2018,Male,Part Time Employment,11.0
+South Africa,2018,Male,Part Time Employment,11
 South Africa,2018,Female,Vulnerable Employment,21.70135984
 South Africa,2018,Male,Vulnerable Employment,19.08421127
 South Sudan,2018,Female,Employment to population ratio,60.071
@@ -6339,8 +6339,8 @@ Albania,2020,Female,Employment to population ratio,43.81
 Albania,2020,Male,Employment to population ratio,56.242
 Albania,2020,Female,Labour Force Participation Rate,50.089
 Albania,2020,Male,Labour Force Participation Rate,64.694
-Albania,2020,Female,Part Time Employment,47.89651450242374
-Albania,2020,Male,Part Time Employment,47.89651450242374
+Albania,2020,Female,Part Time Employment,47.8965145
+Albania,2020,Male,Part Time Employment,47.8965145
 Albania,2020,Female,Vulnerable Employment,50.80180905
 Albania,2020,Male,Vulnerable Employment,51.15328929
 Algeria,2020,Female,Employment to population ratio,11.805
@@ -6635,7 +6635,7 @@ Denmark,2020,Female,Employment to population ratio,54.294
 Denmark,2020,Male,Employment to population ratio,62.849
 Denmark,2020,Female,Labour Force Participation Rate,57.75
 Denmark,2020,Male,Labour Force Participation Rate,66.39
-Denmark,2020,Female,Part Time Employment,54.0
+Denmark,2020,Female,Part Time Employment,54
 Denmark,2020,Male,Part Time Employment,35.1
 Denmark,2020,Female,Vulnerable Employment,3.994600499
 Denmark,2020,Male,Vulnerable Employment,6.145516485
@@ -6961,10 +6961,10 @@ Lao PDR,2020,Female,Vulnerable Employment,85.59960151
 Lao PDR,2020,Male,Vulnerable Employment,73.05160544
 Latvia,2020,Female,Employment to population ratio,52.043
 Latvia,2020,Male,Employment to population ratio,62.28
-Latvia,2020,Female,Labour Force Participation Rate,56.0
+Latvia,2020,Female,Labour Force Participation Rate,56
 Latvia,2020,Male,Labour Force Participation Rate,68.533
 Latvia,2020,Female,Part Time Employment,26.02
-Latvia,2020,Male,Part Time Employment,16.0
+Latvia,2020,Male,Part Time Employment,16
 Latvia,2020,Female,Vulnerable Employment,7.35773998
 Latvia,2020,Male,Vulnerable Employment,8.758011932
 Lebanon,2020,Female,Employment to population ratio,22.155
@@ -7061,8 +7061,8 @@ Mauritius,2020,Female,Employment to population ratio,38.242
 Mauritius,2020,Male,Employment to population ratio,62.888
 Mauritius,2020,Female,Labour Force Participation Rate,42.594
 Mauritius,2020,Male,Labour Force Participation Rate,68.063
-Mauritius,2020,Female,Part Time Employment,47.89651450242374
-Mauritius,2020,Male,Part Time Employment,47.89651450242374
+Mauritius,2020,Female,Part Time Employment,47.8965145
+Mauritius,2020,Male,Part Time Employment,47.8965145
 Mauritius,2020,Female,Vulnerable Employment,15.92818946
 Mauritius,2020,Male,Vulnerable Employment,19.2466268
 Mexico,2020,Female,Employment to population ratio,39.795
@@ -7143,8 +7143,8 @@ New Zealand,2020,Female,Employment to population ratio,61.95
 New Zealand,2020,Male,Employment to population ratio,72.242
 New Zealand,2020,Female,Labour Force Participation Rate,65.201
 New Zealand,2020,Male,Labour Force Participation Rate,75.453
-New Zealand,2020,Female,Part Time Employment,47.89651450242374
-New Zealand,2020,Male,Part Time Employment,47.89651450242374
+New Zealand,2020,Female,Part Time Employment,47.8965145
+New Zealand,2020,Male,Part Time Employment,47.8965145
 New Zealand,2020,Female,Vulnerable Employment,15.6361844
 New Zealand,2020,Male,Vulnerable Employment,21.79897156
 Nicaragua,2020,Female,Employment to population ratio,44.583
@@ -7381,7 +7381,7 @@ Sri Lanka,2020,Female,Employment to population ratio,29.128
 Sri Lanka,2020,Male,Employment to population ratio,68.494
 Sri Lanka,2020,Female,Labour Force Participation Rate,31.74
 Sri Lanka,2020,Male,Labour Force Participation Rate,71.305
-Sri Lanka,2020,Female,Part Time Employment,44.0
+Sri Lanka,2020,Female,Part Time Employment,44
 Sri Lanka,2020,Male,Part Time Employment,32.99
 Sri Lanka,2020,Female,Vulnerable Employment,40.35289528
 Sri Lanka,2020,Male,Vulnerable Employment,39.85099171
@@ -7433,7 +7433,7 @@ Syrian Arab Republic,2020,Female,Vulnerable Employment,9.164315271
 Syrian Arab Republic,2020,Male,Vulnerable Employment,40.37652185
 Tajikistan,2020,Female,Employment to population ratio,29.247
 Tajikistan,2020,Male,Employment to population ratio,46.424
-Tajikistan,2020,Female,Labour Force Participation Rate,31.0
+Tajikistan,2020,Female,Labour Force Participation Rate,31
 Tajikistan,2020,Male,Labour Force Participation Rate,50.639
 Tajikistan,2020,Female,Vulnerable Employment,27.140663
 Tajikistan,2020,Male,Vulnerable Employment,22.40071671
